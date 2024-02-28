@@ -445,5 +445,5 @@ BOT WORKING PROPERLY"""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developer -
 
--Dev [Owner of this bot ]<a href='https://t.me/Srikanthcinema'>@SRIKANTHCINEMASR</a>
+-Dev [Owner of this bot ]<a href='https://t.me/Srikanthcinema'>@ROYALCINEMASR</a>
 """
